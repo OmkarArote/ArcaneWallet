@@ -1,1 +1,1 @@
-# ArcaneWallet
+# ArcaneWallet - UI
